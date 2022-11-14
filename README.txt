@@ -2,7 +2,9 @@ HOW TO RUN:
 1. Open entire workspace/folder in Remix.
 2. Using the file explorer, navigate to the 'WatchItems.sol' and 'WatchTrader.sol' files under the contracts folder.
 3. Compile both 'WatchItems.sol' and 'WatchTrader.sol' by selecting them and then selecting compile under the compile tab.
-4. Complete tests by navigating to 
+4. Complete tests by navigating to the test folder and running the watch.test.js script.
+5. Complete manual operations using the Remix interface.
+   - Note this includes deploying both .sol contracts, adding the WatchTrader.sol contract address to the setApproveForAll function of WatchItems.sol
 
 REMIX DEFAULT WORKSPACE
 
